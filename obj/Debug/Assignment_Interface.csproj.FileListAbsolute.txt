@@ -1,0 +1,7 @@
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.exe.config
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.exe
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\bin\Debug\Assignment_Interface.pdb
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.csproj.AssemblyReference.cache
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.exe
+E:\Mphasis\Day13\Assignment_Interface\Assignment_Interface\obj\Debug\Assignment_Interface.pdb
